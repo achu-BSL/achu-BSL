@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asharudeen
-- 👀 I’m found my passion in coding.
-- 🌱 I’m improving coding skill.
+- 👀 I found my passion in coding.
+- 🌱 I’m improving my coding skill.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
