@@ -14,9 +14,9 @@
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript
+- **Languages:** JavaScript, TypeScript
 - **Web Development:** HTML, CSS, React
-- **Backend Development:** Node.js, Express
+- **Backend Development:** Node.js, Express, Nestjs
 - **Database:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Postman
