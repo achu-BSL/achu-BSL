@@ -15,9 +15,9 @@
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, TypeScript
-- **Web Development:** HTML, CSS, React
+- **Web Development:** HTML, CSS, React, Redux
 - **Backend Development:** Node.js, Express, Nestjs
-- **Database:** MongoDB, MySQL
+- **Database:** MongoDB, MySQL, Postgres, Redis
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Postman
 - **Problem Solving:** Data Structures, Algorithms
