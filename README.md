@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asharudeen.</h1>
-<h3 align="center">One of the person who commited to lerning new things❤️.</h3>
+<h3 align="center">A person who is committed to learning new things and continuously seeks opportunities for personal growth and development❤️.</h3>
 
 - 🚀 Turning lines of code into impactful solutions.
 - 🪐 Learning, building, and striving for excellence.
