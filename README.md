@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/asharudeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achu-bsl" height="30" width="40" /></a>
 <a href="https://instagram.com/as_harudeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="as_harudeen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/achubsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="achubsl" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Asharudeen_ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="achubsl" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Skills
